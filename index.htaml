@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplu Pagină HTML</title>
+</head>
+<body>
+
+    <h1>Bine ați venit pe pagina mea!</h1>
+    <p>Acesta este un exemplu simplu de pagină HTML. HTML-ul este limbajul de marcă folosit pentru a crea pagini web.</p>
+    
+    <p>Pentru mai multe resurse și tutoriale despre HTML, vizitați <a href="https://www.w3schools.com">W3Schools</a>.</p>
+
+</body>
+</html>
